@@ -160,7 +160,7 @@ DISCORD_VOICE_USE_DAVE=false
 
 ```
 bot-project/
-├── index.js                  # ไฟล์บอทหลัก
+├── index.js               # ไฟล์บอทหลัก
 ├── .env                   # environment variables
 ├── bot_config.json        # การตั้งค่าที่บันทึกอัตโนมัติ
 ├── package.json           # dependencies
@@ -196,5 +196,6 @@ bot-project/
 ## 📞 ติดต่อและสนับสนุน
 
 หากมีปัญหาหรือข้อเสนอแนะ กรุณาติดต่อ **Khaotom** ผู้พัฒนา
+
 
 **Happy Botting! 🎉**
