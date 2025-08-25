@@ -49,7 +49,7 @@ DISCORD_VOICE_USE_DAVE=false
 
 ### 5. รันบอท
 ```bash
-node v5.js
+node index.js
 ```
 
 ## 📋 Slash Commands ที่ใช้ได้
@@ -268,3 +268,4 @@ bot-project/
 🔗 **Discord Community:** discord.gg/yt-rocket
 
 **Happy Botting! 🎉**
+
